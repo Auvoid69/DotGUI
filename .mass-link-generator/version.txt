@@ -1,2 +1,2 @@
-Mass Link Generator version 21
-Unique ID: 0024afae-e708-445d-a90d-0e45acb6f454
+Mass Link Generator version 22
+Unique ID: 34ae49ac-a8cb-41e1-b2b4-4c77bafce95b
