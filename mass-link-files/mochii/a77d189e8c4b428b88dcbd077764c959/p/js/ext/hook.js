@@ -1,0 +1,1 @@
+!function(){try{const t=document.currentScript;t&&t.remove()}catch{}try{for(let t=window.parent;t;t=t.parent){if(t.__mochiiExt)return void t.__mochiiExt.frameStart(window);if(t===t.parent)return}}catch{}}();
